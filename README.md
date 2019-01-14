@@ -1,1 +1,1 @@
-# shopify2018-chalenges
+# Shopify 2018 Intern Development Challenges
